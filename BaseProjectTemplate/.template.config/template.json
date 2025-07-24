@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Furkan Aygul",
+  "classifications": [ "N Tier", "WebAPI", "Template" ],
+  "identity": "Furkan.BaseKatmanliTemplate",
+  "name": "N tier Service Template",
+  "shortName": "katmanlibase",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "BaseProjectTemplate",
+  "preferNameDirectory": true
+}
