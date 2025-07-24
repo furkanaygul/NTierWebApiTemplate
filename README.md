@@ -1,6 +1,6 @@
 # NTierWebApiTemplate
 
-Katmanlı mimariyi (N-Tier Architecture) temel alan, **.NET 7 Web API** projeleri için hazır bir başlangıç şablonu.
+Katmanlı mimariyi (N-Tier Architecture) temel alan, **.NET 8 Web API** projeleri için hazır bir başlangıç şablonu.
 
 Bu repo, tekrar eden altyapı işlerini sıfırdan kurmaya gerek bırakmadan; hızlı, düzenli ve sürdürülebilir bir yapı sağlar.  
 Generic repository, Dapper ve Entity Framework Core ile esnek veri erişimi, FluentValidation ile güçlü doğrulama, kolay genişletme ve servis kayıt altyapısı ile donatılmıştır.
